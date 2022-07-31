@@ -1,0 +1,57 @@
+body {
+    background-image:linear-gradient(to right,lightblue,pink)   ;
+}
+#topper{
+   height: 70px;
+}
+#brand{
+    font-size: 30px;
+    text-align: center;   
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+#action-bar{
+    font-size: 35px;
+    align-items: center;
+}
+.container{
+    border-radius: .5rem;
+    background-color: aliceblue;
+    width: 100%;   
+    text-align: center; 
+}
+.container input{
+    font-size: large;
+    border: rgb(43, 83, 226) solid 1px;
+    border-radius: .5rem;
+}
+.container button{
+    font-size: large;
+    border: rgb(43, 83, 226) solid 1px;
+    border-radius: .5rem;
+}
+.container button:hover{
+    color: aquamarine;
+    background-color: blue;
+}
+.item-list{
+    width: 85%;
+    height: 45px;
+}
+.contact-box{
+    border: black solid 1px;
+    font-size: 25px;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    margin-bottom: 0%;
+    margin-top: 0%;
+    height: 45px;
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    background: whitesmoke;
+    border-radius: .5rem;
+    padding-right: 3px;
+    padding-left: 5px;
+}
+.contact-box:hover{
+    background-image: linear-gradient(to right,cyan,rgb(0, 255, 55));
+}
