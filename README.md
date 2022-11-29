@@ -20,6 +20,6 @@
 
 ## Screenshots
 
-![](assets/images/contact_list.jpg)
+![](assets/images/image.png)
 
 
